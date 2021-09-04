@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Overview](https://github.com/edgardcunha/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **edgardcunha/edgardcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
