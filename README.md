@@ -1,6 +1,9 @@
-### Hi there 👋
+### Olá! Se não me conhece, eu sou o Edgard.
 
-![Overview](https://github.com/edgardcunha/github-stats/blob/master/generated/overview.svg)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edgardcunha&show_icons=true&theme=dracula)
+![Edgard Status](https://github-readme-stats.vercel.app/api?username=edgardcunha&show_icons=true&theme=dracula)
+
 
 <!--
 **edgardcunha/edgardcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
